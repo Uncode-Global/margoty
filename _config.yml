@@ -1,0 +1,10 @@
+title: Meu Site
+description: Um site de exemplo usando Markdown, CSS e JS.
+theme: jekyll-theme-slate
+
+# Definindo o diretório de páginas
+collections:
+ gestao_projeto:
+  pages:
+    output: true
+baseurl: "/mvp-documentacao"

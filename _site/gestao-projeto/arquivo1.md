@@ -1,0 +1,16 @@
+- ### [GERAL](#2) 
+   - [1 POPUP DE NEWSLETTER](#2) 
+   - [2 LOGO PRINCIPAL](#2) 
+   - [3 BANNER FAIXA TOPO](#2) 
+   - [4 MENU PRINCIPAL](#2) 
+   - [5 BANNER DO SUBMENU](#2) 
+   - [6 RODAPÉ LOGO](#2) 
+   - [7 REDES SOCIAIS](#2) 
+   - [8 RODAPÉ ATENDIMENTO](#2) 
+   - [9 RODAPÉ TEXTO](#2) 
+   - [10 RODAPÉ SELOS](#2) 
+   - [11 MENU FOOTER](#2) 
+   - [12 ASSINATURA - CNPJ](#2) 
+![Imagem de exemplo](/arquivos/loja/logo.svg)
+
+
