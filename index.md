@@ -5,7 +5,7 @@ body_class: "pagina-inicie-home"
 ---
 
 
-# Documentação de Banners para o Sucesso do seu E-commerce12323232
+# Documentação de Banners para o Sucesso do seu E-commerce - Teste GitHub
 
 Bem-vindo à nossa documentação de banners! Este guia foi elaborado para fornecer todas as informações necessárias sobre as dimensões e características dos banners e tags utilizados em nossa plataforma. Aqui você encontrará detalhes técnicos, especificações de design e orientações práticas para garantir que os banners atendam aos padrões de qualidade e eficiência da nossa marca.
 

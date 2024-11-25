@@ -7,4 +7,4 @@ collections:
  gestao_projeto:
   pages:
     output: true
-baseurl: "/mvp-documentacao"
+baseurl: "/margoty"
