@@ -26,7 +26,7 @@ Não alterar o nome da tag altere somente o título para refletir na loja
 | ------------- | ------------------- | ----------------------------------------- |
 | **Nome**      | Sim      | Campo para pesquisa no painel (não alterar o nome é usado para puxar os produtos no front)                      |
 | **Título**    | Sim | Campo que irá puxar o título para o carrossel de produto                   |
-| **Tipo** | Sim | Home      |
+| **Tipo** | Sim | ` Home `      |
 
 
 
