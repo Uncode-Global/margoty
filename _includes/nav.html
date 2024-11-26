@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav class="menu  {{ page.title  }}">
     <ul>
       <li>
         <span>
@@ -9,7 +9,7 @@
           <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
         </span>
       </li>
-      <li class="has-children-pai">
+      <li class="has-children-pai {% if page.title  == 'homepage' %}actived{% endif %} ">
         <span>
           <div class="content">
             <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -23,27 +23,24 @@
             <li class="has-children">
                 <strong>Banners</strong>
                 <ul class="submenu">
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Banner Bloco 1</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Banner Bloco 2</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Banner Bloco 3</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Banner Bloco 4</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Banner Bloco 5</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Slideshow Principal - Bloco 1</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] -  Banner - Bloco 2</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Banner - Bloco 3</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Banner -  Bloco 4</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Régua de Vantagens - Bloco 5</a></li>
                 </ul>
               </li>
               <li class="has-children">
                 <strong>Tags</strong>
                 <ul class="submenu">
-                  <li><a href="/tags/tag1">Tag 1</a></li>
-                  <li><a href="/tags/tag2">Tag 2</a></li>
-                  <li><a href="/tags/tag3">Tag 3</a></li>
-                  <li><a href="/tags/tag4">Tag 4</a></li>
-                  <li><a href="/tags/tag5">Tag 5</a></li>
+                  <li><a href="{{ site.baseurl }}/pages/homepage/vitrine-homepage">Vitrine Homepage</a></li>
+                
                 </ul>
               </li>
         </ul>
       </li>
 
-      <li class="has-children-pai">
+      <li class="has-children-pai categoria {% if page.title  == 'categoria' %}actived{% endif %} ">
         <span>
           <div class="content">
             
@@ -56,22 +53,23 @@
         </span>
 
         <ul>
-            <li class="has-children">
-                <strong>Banners</strong>
-                <ul class="submenu">
-                    <li><a href="/pages/homepage/pagina1">Banner Bloco 1</a></li>
-                    <li><a href="/pages/homepage/pagina2">Banner Bloco 2</a></li>
-                    <li><a href="/pages/homepage/pagina3">Banner Bloco 3</a></li>
-                    <li><a href="/pages/homepage/pagina4">Banner Bloco 4</a></li>
-                    <li><a href="/pages/homepage/pagina5">Banner Bloco 5</a></li>
-                </ul>
-              </li>
+          <li class="has-children">
+            <strong>Banners</strong>
+            <ul class="submenu">
+                <li><a href="/homepage/pagina1">Banner Categoria </a></li>
+                <li><a href="/homepage/pagina2">Banner B</a></li>
+                <li><a href="/homepage/pagina3">Banner Bloco 3</a></li>
+                <li><a href="/homepage/pagina4">Banner Bloco 4</a></li>
+                <li><a href="/homepage/pagina5">Banner Bloco 5</a></li>
+            </ul>
+          </li>
+    
               <li class="has-children">
                 <strong>Tags</strong>
                 <ul class="submenu">
-                  <li><a href="/tags/tag1">Tag 1</a></li>
-                  <li><a href="/tags/tag2">Tag 2</a></li>
-                  <li><a href="/tags/tag3">Tag 3</a></li>
+                  <li><a href="{{ site.baseurl }}/pages/produto/compre-junto">Menu</a></li>
+                  <li><a href="/tags/tag2">Google Category</a></li>
+                  <li><a href="/tags/tag3">Busca Vazia</a></li>
                   <li><a href="/tags/tag4">Tag 4</a></li>
                   <li><a href="/tags/tag5">Tag 5</a></li>
                 </ul>
@@ -79,7 +77,7 @@
         </ul>
       </li>
 
-      <li class="has-children-pai">
+      <li class="has-children-pai produtos {% if page.title  == 'produto' %}actived{% endif %} ">
         <span>
             <div class="content">
               <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -90,30 +88,30 @@
         </span>
 
         <ul>
-            <li class="has-children">
-                <strong>Banners</strong>
-                <ul class="submenu">
-                    <li><a href="/homepage/pagina1">Banner Bloco 1</a></li>
-                    <li><a href="/homepage/pagina2">Banner Bloco 2</a></li>
-                    <li><a href="/homepage/pagina3">Banner Bloco 3</a></li>
-                    <li><a href="/homepage/pagina4">Banner Bloco 4</a></li>
-                    <li><a href="/homepage/pagina5">Banner Bloco 5</a></li>
-                </ul>
-              </li>
+       
               <li class="has-children">
                 <strong>Tags</strong>
                 <ul class="submenu">
-                  <li><a href="/tags/tag1">Tag 1</a></li>
-                  <li><a href="/tags/tag2">Tag 2</a></li>
-                  <li><a href="/tags/tag3">Tag 3</a></li>
-                  <li><a href="/tags/tag4">Tag 4</a></li>
-                  <li><a href="/tags/tag5">Tag 5</a></li>
+                  <li><a href="{{ site.baseurl }}/pages/produto/compre-junto">Compre Junto</a></li>
+                  <li><a href="/tags/tag2">Produtos Relacionados</a></li>
+                  <li><a href="/tags/tag3">Guia de Medidas</a></li>
+                  <li><a href="/tags/tag4">Produtos Similares</a></li>
+                  <li><a href="/tags/tag5">Etiqueta - Textual </a></li>
+                  <li><a href="/tags/tag5">Etiqueta - Texto e Imagem </a></li>
+                  <li><a href="/tags/tag5">Promoção em tag De x Por </a></li>
+                  <li><a href="/tags/tag5">Produto Personalizado </a></li>
+                  <li><a href="/tags/tag5">Tag Estampa </a></li>
+                  <li><a href="/tags/tag5">Tag Info </a></li>
+                  <li><a href="/tags/tag5">Tag de especificações Produtos </a></li>
+                  <li><a href="/tags/tag5">Tag Vantagens PDP </a></li>
+                  <li><a href="/tags/tag5">Produto Personalizado </a></li>
+                  <li><a href="/tags/tag5">Produtos Similares</a></li>
                 </ul>
               </li>
         </ul>
       </li>
 
-      <li class="has-children-pai">
+      <li class="has-children-pai institucional {% if page.title  == 'institucional' %}actived{% endif %}">
         <span>
             <div class="content">
               <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -147,7 +145,7 @@
         </ul>
       </li>
 
-      <li class="has-children-pai">
+      <li class="has-children-pai macro">
         <span>
            <div class="content">
             <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">

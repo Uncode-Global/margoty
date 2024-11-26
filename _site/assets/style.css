@@ -348,3 +348,23 @@ img{
 body.default.página-inicial main ul {
     margin-bottom: 20px;
 }
+
+header nav ul li.actived span > img {
+    transform: rotate(180deg);
+}
+
+li.has-children-pai.actived{
+    background: #0A727314;
+
+}
+li.has-children-pai.actived li{
+    background: transparent;
+}
+
+li.has-children-pai.actived li a{
+    color: #4A4A4A;
+}
+
+li.has-children-pai.actived strong{
+    color: #0A7273;
+}

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: categoria
+title: homepage
 ---
 
-## Slideshow principal - Bloco 1
+## Teste aqui Slideshow principal - Bloco 1
 
 
 O Slideshow principal é o primeiro banner que aparece quando o cliente visualiza o site, é composto por um ou mais banners, conforme for alocando mais banners no painel na mesma posição, automaticamente entrará em carrossel. O banner deve ser enviado com o conteúdo textual e o botão CTA aplicado.
