@@ -1,43 +1,86 @@
-<nav class="menu {{ page.title | slugify }}">
-    <ul>
-   
-      <li class="has-children-pai">
-        <span>
-          <div class="content">
-            <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
-                Macro
-          </div>
-          <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
-
-        </span>
-
-        <ul>
-            <li class="has-children">
-                <!-- <strong>Macro</strong> -->
-                <ul class="submenu">
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Imagens dos Produtos</a></li>
-    
-              </li>
-              <li class="has-children">
-                <strong>Header</strong>
-                <ul class="submenu">
-                  <li><a class="{% if page.body_class  == 'banner-menu-departamento' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/macro/banner-menu-departamento">Banner menu </a></li>
-                </ul>
-              </li>
-              <li class="has-children">
-                <strong>Footer</strong>
-                <ul class="submenu">
-                  <li><a href="/tags/tag1">Tag Capa</a></li>
-                  <li><a href="/tags/tag2">Tag Estampa</a></li>
-                  <li><a href="/tags/tag3">Tag Info Produto</a></li>
-               
-                </ul>
-              </li>
-        </ul>
-      </li>
-
+<nav class="menu  {{ page.title  }}">
+  <ul>
   
+    <li class="has-children-pai {% if page.title  == 'header' %}actived{% endif %} ">
+      <span>
+        <div class="content">
+          <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
+          Cabeçalho
+        </div>
+        <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
+
+      </span>
+
+      <ul>
+        <li class="has-children">
+       
+            <ul class="submenu">
+                <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/header/logo">Logo</a></li>
+                <li><a class="{% if page.body_class  == 'header-menu' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/header/menu">Menu</a></li>
+                <li><a class="{% if page.body_class  == 'header-menu-departamento' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/header/banner-menu">Banner Menu Departamento</a></li>
+                
+            </ul>
+        </li>
      
     </ul>
+
+    </li>
+
+    <li class="has-children-pai  {% if page.title  == 'rodape' %}actived{% endif %} ">
+      <span>
+        <div class="content">
+          
+       
+          <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
+          Rodapé
+        </div>
+        <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
+
+      </span>
+      <ul>
+        <li class="has-children">
+       
+            <ul class="submenu">
+              <li><a class="{% if page.body_class  == 'rodape-menu' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/footer/menu-footer">Menu</a></li>
+                <li><a class="{% if page.body_class  == 'rodape-redes' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/footer/menu-social">Redes Sociais</a></li>
+                <li><a class="{% if page.body_class  == 'rodape-newsletter' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/footer/newsletter">Newsletter</a></li>
+                <li><a class="{% if page.body_class  == 'rodape-dados-loja' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/footer/dados-loja">Dados da loja</a></li>
+                
+            </ul>
+          </li>
+      
+      </ul>
+
+    </li>
+
+    <li class="has-children-pai  {% if page.title  == 'funcionalidades' %}actived{% endif %} ">
+      <span>
+        <div class="content">
+          
+       
+          <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
+          Demais funcionalidades
+        </div>
+        <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
+
+      </span>
+
+      <ul>
+          <li class="has-children">
+              <ul class="submenu">
+                  <li><a class="{% if page.body_class  == 'indique-e-ganhe' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Indique e ganhe</a></li>
+                  <li><a class="{% if page.body_class  == 'pop' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Pop-up</a></li>
+                  <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Imagens do Produto</a></li>
+                  <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">E-mail Transacional</a></li>
+                  <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Régua de Frete grátis </a></li>
+                  
+              </ul>
+          </li>
+      </ul>
+
+
+    </li>
+
+   
+  </ul>
 </nav>
-  

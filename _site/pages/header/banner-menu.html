@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>institucional - Meu Site</title>
+    <title>header - Meu Site</title>
     <link rel="stylesheet" href="/margoty/assets/style.css">
     <link rel="icon" type="image/svg+xml" href="/margoty/arquivos/loja/logo.svg">
 
     
 </head>
-<body class="default institucional">
+<body class="default header">
     
     <div class="page-wrapper" >
         
@@ -24,7 +24,7 @@
         </div>
     
         <!-- Main Navigation -->
-        <nav class="menu  institucional">
+        <nav class="menu  header">
     <ul>
       <li>
         <span>
@@ -138,7 +138,7 @@
         </ul>
       </li>
 
-      <li class="has-children-pai institucional actived">
+      <li class="has-children-pai institucional ">
         <span>
             <div class="content">
               <img src="/margoty/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -155,7 +155,7 @@
                 <ul class="submenu">
                   <li><a class=""  href="/margoty/pages/institucional/criar-paginas-institucional">Criar Páginas institucionais</a></li>
 
-                  <li><a class="actived-menu"  href="/margoty/pages/institucional/paginas-institucionais-conteudo-unico">Páginas institucionais de conteúdo único</a></li>
+                  <li><a class=""  href="/margoty/pages/institucional/paginas-institucionais-conteudo-unico">Páginas institucionais de conteúdo único</a></li>
 
 
                   <li><a class=""  href="/margoty/pages/institucional/quem-somos">Páginas Quem Somos</a></li>
@@ -210,10 +210,10 @@
         </div>
     
         <!-- Additional Navigation for Macro -->
-        <nav class="menu  institucional">
+        <nav class="menu  header">
   <ul>
   
-    <li class="has-children-pai  ">
+    <li class="has-children-pai actived ">
       <span>
         <div class="content">
           <img src="/margoty/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -229,7 +229,7 @@
             <ul class="submenu">
                 <li><a class="" href="/margoty/pages/header/logo">Logo</a></li>
                 <li><a class="" href="/margoty/pages/header/menu">Menu</a></li>
-                <li><a class="" href="/margoty/pages/header/banner-menu">Banner Menu Departamento</a></li>
+                <li><a class="actived-menu" href="/margoty/pages/header/banner-menu">Banner Menu Departamento</a></li>
                 
             </ul>
         </li>
@@ -325,11 +325,52 @@
     
     
         <main>
-            <h2 id="páginas-institucionais-de-conteúdo-único">Páginas institucionais de conteúdo único</h2>
+            <div class="menu-flutuante">
+<div>
+  <a href="#especificações-para-versão-desktop">Dimensão de Banners</a>
+</div>
 
-<p>Esse mesmo modelo serve para as demais páginas que são de conteúdo único como privacidade, pagamento, troca e outras que forem criadas.</p>
+<div>
+  <a href="#como-cadastrar">Cadastrar Banner</a>
+</div>
 
-<p>Para ser exibido o conteúdo deve ser criada uma página na aba páginas no painel a url da página deve ser igual a parte da posição do banner que vem seguida da palavra institucional e antes de bloco-1</p>
+</div>
+
+<h1 id="banner-de-menu-do-departamento">Banner de Menu do Departamento</h1>
+
+<p>O banner de menu do departamento permite que, ao passar o mouse, o usuário visualize <strong>2 banners relacionados ao departamento</strong>. Os banners devem conter <strong>conteúdo textual</strong> e um <strong>botão CTA</strong> aplicados.</p>
+
+<h3 id="regras-de-conteúdo">Regras de Conteúdo</h3>
+<ul>
+  <li><strong>Texto do banner:</strong> Até 15 caracteres.</li>
+  <li><strong>Texto do botão CTA:</strong> Até 12 caracteres.</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="quantidade-de-banners">Quantidade de Banners</h3>
+<ul>
+  <li>São necessários <strong>2 banners por departamento</strong> caso todos os departamentos devam incluir o recurso.</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="especificações-para-versão-desktop">Especificações para Versão Desktop:</h2>
+<ul>
+  <li><strong>Medidas:</strong> 338px (largura) x 302px (altura).</li>
+  <li><strong>Layout:</strong> Formato quadrado.</li>
+  <li><strong>Extensão do arquivo:</strong> PNG.</li>
+  <li><strong>Resolução:</strong> 72dpi (para web).</li>
+  <li><strong>Peso máximo sugerido:</strong> 200kb.</li>
+</ul>
+
+<p><br /></p>
+
+<p><strong>Exemplo:</strong></p>
+
+<p><img src="/margoty/arquivos/prints/banner-menu.png" alt="Imagem do Banner Desktop" /></p>
+
+<h2 id="como-cadastrar">Como cadastrar</h2>
 
 <p><strong><em>Informações:</em></strong></p>
 
@@ -345,16 +386,12 @@
       <td><strong>Onde cadastrar</strong></td>
       <td>Banners</td>
     </tr>
-    <tr>
-      <td><strong>Onde será exibido</strong></td>
-      <td>Páginas institucionais</td>
-    </tr>
   </tbody>
 </table>
 
 <p> </p>
 
-<p><strong><em>Informações sobre os campos</em></strong></p>
+<p><strong><em>Orientações sobre os campos:</em></strong></p>
 
 <table>
   <thead>
@@ -366,24 +403,24 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>Imagem</strong></td>
+      <td>Sim</td>
+      <td>Dimensão sugerida: 338x302 pixels</td>
+    </tr>
+    <tr>
       <td><strong>Título</strong></td>
       <td>Sim</td>
       <td>Campo para pesquisa no painel</td>
     </tr>
     <tr>
-      <td><strong>Subtítulo</strong></td>
-      <td>Sim</td>
-      <td>Titulo que aparece</td>
-    </tr>
-    <tr>
-      <td><strong>Descrição</strong></td>
-      <td>Sim</td>
-      <td>Conteúdo da loja</td>
+      <td><strong>URL</strong></td>
+      <td>Opcional</td>
+      <td>Link de direcionamento</td>
     </tr>
     <tr>
       <td><strong>Posição</strong></td>
       <td>Sim</td>
-      <td>institucional-nome-da-pagina-bloco-1</td>
+      <td><code class="language-plaintext highlighter-rouge">banner-menu-nome-do-menu</code></td>
     </tr>
   </tbody>
 </table>

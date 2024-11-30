@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>institucional - Meu Site</title>
+    <title>header - Meu Site</title>
     <link rel="stylesheet" href="/margoty/assets/style.css">
     <link rel="icon" type="image/svg+xml" href="/margoty/arquivos/loja/logo.svg">
 
     
 </head>
-<body class="default institucional">
+<body class="default header">
     
     <div class="page-wrapper" >
         
@@ -24,7 +24,7 @@
         </div>
     
         <!-- Main Navigation -->
-        <nav class="menu  institucional">
+        <nav class="menu  header">
     <ul>
       <li>
         <span>
@@ -138,7 +138,7 @@
         </ul>
       </li>
 
-      <li class="has-children-pai institucional actived">
+      <li class="has-children-pai institucional ">
         <span>
             <div class="content">
               <img src="/margoty/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -155,7 +155,7 @@
                 <ul class="submenu">
                   <li><a class=""  href="/margoty/pages/institucional/criar-paginas-institucional">Criar Páginas institucionais</a></li>
 
-                  <li><a class="actived-menu"  href="/margoty/pages/institucional/paginas-institucionais-conteudo-unico">Páginas institucionais de conteúdo único</a></li>
+                  <li><a class=""  href="/margoty/pages/institucional/paginas-institucionais-conteudo-unico">Páginas institucionais de conteúdo único</a></li>
 
 
                   <li><a class=""  href="/margoty/pages/institucional/quem-somos">Páginas Quem Somos</a></li>
@@ -210,10 +210,10 @@
         </div>
     
         <!-- Additional Navigation for Macro -->
-        <nav class="menu  institucional">
+        <nav class="menu  header">
   <ul>
   
-    <li class="has-children-pai  ">
+    <li class="has-children-pai actived ">
       <span>
         <div class="content">
           <img src="/margoty/arquivos/icones/box.svg" alt="Logo da Loja">
@@ -228,7 +228,7 @@
        
             <ul class="submenu">
                 <li><a class="" href="/margoty/pages/header/logo">Logo</a></li>
-                <li><a class="" href="/margoty/pages/header/menu">Menu</a></li>
+                <li><a class="actived-menu" href="/margoty/pages/header/menu">Menu</a></li>
                 <li><a class="" href="/margoty/pages/header/banner-menu">Banner Menu Departamento</a></li>
                 
             </ul>
@@ -325,11 +325,15 @@
     
     
         <main>
-            <h2 id="páginas-institucionais-de-conteúdo-único">Páginas institucionais de conteúdo único</h2>
+            <h1 id="menu-principal">Menu Principal</h1>
 
-<p>Esse mesmo modelo serve para as demais páginas que são de conteúdo único como privacidade, pagamento, troca e outras que forem criadas.</p>
+<p>Cadastro dos itens que irão levar para as páginas de categoria, são permitidos até 3 níveis de menu</p>
 
-<p>Para ser exibido o conteúdo deve ser criada uma página na aba páginas no painel a url da página deve ser igual a parte da posição do banner que vem seguida da palavra institucional e antes de bloco-1</p>
+<p>Cadastro dos itens que irão levar para as páginas de categoria, são permitidos até 3 níveis de menu</p>
+
+<p>Para ter o direcionamento correto utilizar tag e selecionar a tag que o item do menu pertence.</p>
+
+<h2 id="como-cadastrar">Como cadastrar</h2>
 
 <p><strong><em>Informações:</em></strong></p>
 
@@ -343,18 +347,14 @@
   <tbody>
     <tr>
       <td><strong>Onde cadastrar</strong></td>
-      <td>Banners</td>
-    </tr>
-    <tr>
-      <td><strong>Onde será exibido</strong></td>
-      <td>Páginas institucionais</td>
+      <td>Menu</td>
     </tr>
   </tbody>
 </table>
 
 <p> </p>
 
-<p><strong><em>Informações sobre os campos</em></strong></p>
+<p><strong><em>Orientações sobre os campos:</em></strong></p>
 
 <table>
   <thead>
@@ -368,22 +368,17 @@
     <tr>
       <td><strong>Título</strong></td>
       <td>Sim</td>
-      <td>Campo para pesquisa no painel</td>
+      <td>Campo destinado para identificação do item</td>
     </tr>
     <tr>
-      <td><strong>Subtítulo</strong></td>
+      <td><strong>Tag</strong></td>
       <td>Sim</td>
-      <td>Titulo que aparece</td>
-    </tr>
-    <tr>
-      <td><strong>Descrição</strong></td>
-      <td>Sim</td>
-      <td>Conteúdo da loja</td>
+      <td>Campo destina para alocar a tag que o item do menu pertence</td>
     </tr>
     <tr>
       <td><strong>Posição</strong></td>
       <td>Sim</td>
-      <td>institucional-nome-da-pagina-bloco-1</td>
+      <td><code class="language-plaintext highlighter-rouge">principal</code></td>
     </tr>
   </tbody>
 </table>

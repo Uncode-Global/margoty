@@ -4,6 +4,16 @@ title: institucional
 body_class: "quem-somos"
 ---
 
+<div class="menu-flutuante">
+<div>
+  <a href="#como-cadastrar-quem-somos---bloco-1">Cadastrar Bloco 1</a>
+</div>
+
+<div>
+  <a href="#como-cadastrar-quem-somos---bloco-2">Cadastrar Bloco 2</a>
+</div>
+
+</div>
 
 ## Página Quem Somos Bloco 1
 
