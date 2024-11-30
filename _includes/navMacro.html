@@ -16,14 +16,16 @@
                 <!-- <strong>Macro</strong> -->
                 <ul class="submenu">
                     <li><a href="{{ site.baseurl }}/pages/categoria">Imagens dos Produtos</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Pop-up</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">E-mail Transacional</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Ícone Flutuante pop-up - Indique e Ganhe</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/categoria">Banner Bloco 5</a></li>
+    
+              </li>
+              <li class="has-children">
+                <strong>Header</strong>
+                <ul class="submenu">
+                  <li><a class="{% if page.body_class  == 'banner-menu-departamento' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/macro/banner-menu-departamento">Banner menu </a></li>
                 </ul>
               </li>
               <li class="has-children">
-                <strong>Tags</strong>
+                <strong>Footer</strong>
                 <ul class="submenu">
                   <li><a href="/tags/tag1">Tag Capa</a></li>
                   <li><a href="/tags/tag2">Tag Estampa</a></li>

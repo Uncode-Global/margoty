@@ -1,9 +1,23 @@
 ---
 layout: default
-title: homepage
+title: homepage 
+body_class: "home-bloco-1"
 ---
 
-## Slideshow principal - Bloco 1
+<div class="menu-flutuante">
+<div>
+  <a href="#dimensão-de-banners">Dimensão de banners</a>
+</div>
+
+<div>
+  <a href="#como-cadastrar">Como cadastrar</a>
+</div>
+
+</div>
+
+## [Home] - Slideshow Principal - Bloco 1
+
+## Dimensão de banners
 
 
 O Slideshow principal é o primeiro banner que aparece quando o cliente visualiza o site, é composto por um ou mais banners, conforme for alocando mais banners no painel na mesma posição, automaticamente entrará em carrossel. O banner deve ser enviado com o conteúdo textual e o botão CTA aplicado.
@@ -38,7 +52,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 ---
 
-## Como cadastrar o slideshow Bloco 1
+## Como cadastrar
 
 ## FULLBANNER PRINCIPAL
 
@@ -48,7 +62,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 | --------------------- | ---------------------------------------------------------------- |
 | **Onde cadastrar**    | Banners                                                          |
 | **Onde será exibido** | Banner principal abaixo do header, ocupa 100% da largura da tela |
-| **Cadastro exemplo**  | [Admin](https://margoty.cdn.vnda.com.br/admin/banner?title=&orderBy=desc&sortBy=updated_at&page=1&perPage=50&status=active) |
+
 
 &nbsp;
 
@@ -56,11 +70,11 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
-| **Imagem**          | Opcional | Dimensão sugerida Desktop: 2200x1012 pixels, Mobile: 1000x1460 pixels |
+| **Imagem**          | Sim | Dimensão sugerida Desktop: 2200x1012 pixels, Mobile: 1000x1460 pixels |
 | **Título**          | Sim      | Campo para pesquisa no painel                         |
 | **Externo?**        | Opcional | Selecionar se o link do banner deve abrir em outra aba                |
 | **URL**             | Opcional | Link de direcionamento                                                |
-| **Posição Desktop** | Sim     | `home-bloco-01`                                        |
-| **Posição Mobile**  | Sim      | `home-bloco-01-mobile`                                 |
+| **Posição Desktop** | Sim     | `home-bloco-1`                                        |
+| **Posição Mobile**  | Sim      | `home-bloco-1-mobile`                                 |
 
 

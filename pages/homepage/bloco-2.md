@@ -1,7 +1,20 @@
 ---
 layout: default
 title: homepage
+body_class: "home-bloco-2"
 ---
+<div class="menu-flutuante">
+<div>
+  <a href="#dimensão-de-banners">Dimensão de banners</a>
+</div>
+
+<div>
+  <a href="#como-cadastrar">Como cadastrar</a>
+</div>
+
+</div>
+
+## Dimensão de banners
 
 ## [HOME] - Banner Superior - Bloco 2
 
@@ -38,17 +51,17 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 ---
 
-## Como cadastrar o slideshow Bloco 2
+## Como cadastrar 
 
-## FULLBANNER PRINCIPAL
+## Bloco 2
 
 **_Informações:_**
 
 | Dúvida                | Instrução                                                        |
 | --------------------- | ---------------------------------------------------------------- |
 | **Onde cadastrar**    | Banners                                                          |
-| **Onde será exibido** | Banner superior que estão entre slideshow e vitrine.  |
-| **Cadastro exemplo**  | [Admin](https://margoty.cdn.vnda.com.br/admin/banner?title=&orderBy=desc&sortBy=updated_at&page=1&perPage=50&status=active) |
+| **Onde será exibido** | Banner superior que estão entre topbar e vitrine.  |
+
 
 &nbsp;
 
@@ -56,11 +69,11 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
-| **Imagem**          | Opcional | Dimensão sugerida Desktop: 2200x1012 pixels, Mobile: 1000x1460 pixels |
+| **Imagem**          | Sim | Dimensão sugerida Desktop: 2200x1012 pixels, Mobile: 1000x1460 pixels |
 | **Título**          | Sim      | Campo para pesquisa no painel                         |
 | **Externo?**        | Opcional | Selecionar se o link do banner deve abrir em outra aba                |
 | **URL**             | Opcional | Link de direcionamento                                                |
-| **Posição Desktop** | Sim     | `home-bloco-02`                                        |
-| **Posição Mobile**  | Sim      | `home-bloco-02-mobile`                                 |
+| **Posição Desktop** | Sim     | `home-bloco-2`                                        |
+| **Posição Mobile**  | Sim      | `home-bloco-2-mobile`                                 |
 
 

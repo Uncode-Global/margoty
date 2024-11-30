@@ -6,7 +6,7 @@
             <img src="{{ site.baseurl }}/arquivos/icones/inicie.svg" alt="Logo da Loja">
             <a href="{{ site.baseurl }}/">  Inicie aqui</a>
           </div>
-          <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
+          <!-- <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja"> -->
         </span>
       </li>
       <li class="has-children-pai {% if page.title  == 'homepage' %}actived{% endif %} ">
@@ -23,17 +23,17 @@
             <li class="has-children">
                 <strong>Banners</strong>
                 <ul class="submenu">
-                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Slideshow Principal - Bloco 1</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-2">[Home] -  Banner - Bloco 2</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Banner - Bloco 3</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Banner -  Bloco 4</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Régua de Vantagens - Bloco 5</a></li>
+                    <li><a class="{% if page.body_class  == 'home-bloco-1' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">[Home] - Slideshow Principal - Bloco 1</a></li>
+                    <li><a class="{% if page.body_class  == 'topbar' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/topbar">[Home] - Topbar </a></li>
+                    <li><a class="{% if page.body_class  == 'home-bloco-2' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-2">[Home] - Banner Superior - Bloco 2</a></li>
+                    <li><a class="{% if page.body_class  == 'home-bloco-3' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-3">[Home] - Banner Superior - Bloco 3</a></li>
+                    <li><a class="{% if page.body_class  == 'home-bloco-4' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/regua-vantagens">[Home] - Régua de Vantagens - Bloco 4</a></li>
                 </ul>
               </li>
               <li class="has-children">
                 <strong>Tags</strong>
                 <ul class="submenu">
-                  <li><a href="{{ site.baseurl }}/pages/homepage/vitrine-homepage">Vitrine Homepage</a></li>
+                  <li><a class="{% if page.body_class  == 'vitrine' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/vitrine-homepage">Vitrine Homepage</a></li>
                 
                 </ul>
               </li>
@@ -53,20 +53,22 @@
         </span>
 
         <ul>
-          <li class="has-children">
+          <!-- <li class="has-children">
             <strong>Banners</strong>
             <ul class="submenu">
                 <li><a href="/homepage/pagina1">Banner Categoria </a></li>
       
             </ul>
-          </li>
+          </li> -->
     
               <li class="has-children">
                 <strong>Tags</strong>
                 <ul class="submenu">
-                  <li><a href="{{ site.baseurl }}/pages/produto/compre-junto">Menu</a></li>
-                  <li><a href="/tags/tag2">Google Category</a></li>
-                  <li><a href="/tags/tag3">Busca Vazia</a></li>
+                  <!-- <li><a href="{{ site.baseurl }}/pages/produto/compre-junto">Menu</a></li> -->
+                  <li><a class="{% if page.body_class  == 'tag-estampa' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/categoria/tag-estampa">Tag Estampa</a></li>
+                  <li><a class="{% if page.body_class  == 'menu' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/categoria/menu">Menu</a></li>
+                  <li><a class="{% if page.body_class  == 'google-category' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/categoria/google-category">Google Category</a></li>
+                  <!-- <li><a href="/tags/tag3">Tag Estampa</a></li> -->
                 
                 </ul>
               </li>
@@ -88,20 +90,23 @@
               <li class="has-children">
                 <strong>Tags</strong>
                 <ul class="submenu">
-                  <li><a href="{{ site.baseurl }}/pages/produto/compre-junto">Compre Junto</a></li>
-                  <li><a href="/tags/tag2">Produtos Relacionados</a></li>
-                  <li><a href="/tags/tag3">Guia de Medidas</a></li>
-                  <li><a href="/tags/tag4">Produtos Similares</a></li>
-                  <li><a href="/tags/tag5">Etiqueta - Textual </a></li>
-                  <li><a href="/tags/tag5">Etiqueta - Texto e Imagem </a></li>
-                  <li><a href="/tags/tag5">Promoção em tag De x Por </a></li>
-                  <li><a href="/tags/tag5">Produto Personalizado </a></li>
-                  <li><a href="/tags/tag5">Tag Estampa </a></li>
-                  <li><a href="/tags/tag5">Tag Info </a></li>
-                  <li><a href="/tags/tag5">Tag de especificações Produtos </a></li>
-                  <li><a href="/tags/tag5">Tag Vantagens PDP </a></li>
-                  <li><a href="/tags/tag5">Produto Personalizado </a></li>
-                  <li><a href="/tags/tag5">Produtos Similares</a></li>
+                  <li><a class="{% if page.body_class  == 'produtos-relacionados' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/produtos-relacionados">Produtos Relacionados</a></li>
+                  
+                  <li><a class="{% if page.body_class  == 'compre-junto' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/compre-junto">Compre Junto</a></li>
+
+                  <li><a class="{% if page.body_class  == 'promocao-em-tag' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/promocao-em-tag">Promoção em tag De x Por</a></li>
+
+                  <li><a class="{% if page.body_class  == 'cashback' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/cashback">Cashback</a></li>
+
+                  <li><a class="{% if page.body_class  == 'produto-similares' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/produtos-similares">Produtos Similares                  </a></li>
+
+                  <li><a class="{% if page.body_class  == 'guia-de-medidas' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/guia-de-medidas">Guia de Medidas                 </a></li>
+
+                  <li><a class="{% if page.body_class  == 'info-produto' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/info-produto">Info Produto</a></li>
+
+
+                  <li><a class="{% if page.body_class  == 'etiqueta-textual' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/produto/etiqueta-textual">Etiqueta Textual</a></li>
+
                 </ul>
               </li>
         </ul>
@@ -122,11 +127,12 @@
               <li class="has-children">
                 <strong>Conteudo</strong>
                 <ul class="submenu">
-                  <li><a href="/tags/tag1">Criar Páginas Institucionais</a></li>
-                  <li><a href="/tags/tag2">Quem Somos</a></li>
-                  <li><a href="/tags/tag3">Páginas institucionais de contéudo unico</a></li>
-                  <li><a href="/tags/tag4">Páginas institucionais de conteúdo - Perguntas Frequentes</a></li>
-                  <li><a href="/tags/tag5">Menu de Contato</a></li>
+                  <li><a class="{% if page.body_class  == 'criar-paginas' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/institucional/criar-paginas-institucional">Criar Páginas institucionais</a></li>
+
+                  <li><a class="{% if page.body_class  == 'conteudo-unico' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/institucional/paginas-institucionais-conteudo-unico">Páginas institucionais de conteúdo único</a></li>
+
+
+                  <li><a class="{% if page.body_class  == 'quem-somos' %}actived-menu{% endif %}"  href="{{ site.baseurl }}/pages/institucional/quem-somos">Páginas Quem Somos</a></li>
                 </ul>
               </li>
         </ul>

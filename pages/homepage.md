@@ -23,7 +23,7 @@ body_class: "pagina-1"
 | --------------------- | ---------------------------------------------------------------- |
 | **Onde cadastrar**    | Banners                                                          |
 | **Onde será exibido** | Banner principal abaixo do header, ocupa 100% da largura da tela |
-| **Cadastro exemplo**  | [Admin](https://inobvia.vnda.dev/admin/midias/editar?id=1) |
+
 
 &nbsp;
 

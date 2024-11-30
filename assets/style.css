@@ -66,10 +66,14 @@ body{
     /* align-items: center; */
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 header {
     position: relative;
-    min-width:320px;
-    max-width:320px;
+    min-width:420px;
+    max-width:420px;
     background: #FBFAFD;
     min-height:100vh;
     padding: 0 10px;
@@ -367,4 +371,34 @@ li.has-children-pai.actived li a{
 
 li.has-children-pai.actived strong{
     color: #0A7273;
+}
+
+.menu-flutuante {
+    position: fixed;
+    top: 0;
+    flex-direction: row;
+    gap: 15px;
+    display: flex;
+    width: 600px;
+    padding: 10px;
+ 
+}
+
+.menu-flutuante > div {
+    /* background: #FBFAFD; */
+    background: #f1f1f1 ;
+    color: #4a4a4a;
+    text-transform: uppercase;
+    font-size: 14px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu-flutuante > div:hover {
+    color: #0A7273 !important;
+}
+
+a.actived-menu {
+    color: #0A7273 !important;
 }
