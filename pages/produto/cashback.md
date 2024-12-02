@@ -8,7 +8,7 @@ body_class: "cashback"
 ## Cashback
 
 
-Exibido na PDP a informação de cashback
+Exibido na Página de produto a informação de cashback
 
 
 ***Informações:***
@@ -16,7 +16,7 @@ Exibido na PDP a informação de cashback
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                    |
+| **Onde será exibido**           | Na página de produto                    |
 
 
 &nbsp;

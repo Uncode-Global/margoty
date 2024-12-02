@@ -7,7 +7,7 @@ body_class: "etiqueta-textual"
 
 ## Etiqueta Textual
 
-**É necessário criar uma Tag para vincular ao produto**
+**É necessário vincular essa TAG aos produtos que deseja aparcer a etiqueta**
 
 A tag etiqueta tem por objetivo trazer para o cliente a etiqueta que o produto possui. Informações alocadas diretamente na plataforma.
 

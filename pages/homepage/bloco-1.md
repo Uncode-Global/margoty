@@ -70,7 +70,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
-| **Imagem**          | Sim | Dimensão sugerida Desktop: 2200x1012 pixels, Mobile: 1000x1460 pixels |
+| **Imagem**          | Sim | Dimensão sugerida Desktop: 1920x649 pixels, Mobile: 720x965 pixels |
 | **Título**          | Sim      | Campo para pesquisa no painel                         |
 | **Externo?**        | Opcional | Selecionar se o link do banner deve abrir em outra aba                |
 | **URL**             | Opcional | Link de direcionamento                                                |

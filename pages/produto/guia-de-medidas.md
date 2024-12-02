@@ -17,7 +17,7 @@ Exibido as informações de medidas do produto
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                    |
+| **Onde será exibido**           | Na página de produto                    |
 
 
 &nbsp;
@@ -34,12 +34,6 @@ Exibido as informações de medidas do produto
 | **Tipo** | Sim | produto-guia-de-medidas   |
 
 <br>
-
-## Exempo de tag para cadastrar na guia de medidas
-
-| Tamanho     | Cintura     | Quadril     | Comprimento |
-| ----------- | ----------- | ----------- | ----------- |
-| P           | 68-72cm     | 100-105cm   | 94
 
 
 &nbsp;

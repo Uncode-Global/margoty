@@ -5,7 +5,7 @@ body_class: menu
 ---
 
 
-## Menu
+## Tag de Menu
 
 Cada tag cria um departamento, categoria ou sub-categoria, que pode ser usada para vincular produtos e criar a árvore de categoria na plataforma e refletir no site.
 

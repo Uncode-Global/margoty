@@ -1,7 +1,7 @@
 ---
 layout: default
 title: rodape
-body_class: "rodape-menu"
+body_class: "rodape-menu-social"
 ---
 
 
