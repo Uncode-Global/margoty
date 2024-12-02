@@ -18,7 +18,7 @@ Exibido as variações similares de cores dos produtos
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
 | **Onde será exibido**           | Na pagina de produto                    |
-| **Link para cadastrar no painel** | [Admin](https://margoty.cdn.vnda.com.br/admin/tags) |
+
 
 &nbsp;
 

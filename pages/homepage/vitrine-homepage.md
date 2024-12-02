@@ -17,7 +17,7 @@ Não alterar o nome da tag altere somente o título para refletir na loja
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
 | **Onde será exibido**           | Na homepage                           |
-| **Link para cadastrar no painel** | [Admin](https://margoty.cdn.vnda.com.br/admin/tags) |
+
 
 &nbsp;
 

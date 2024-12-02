@@ -16,7 +16,7 @@ Cada tag cria um departamento, categoria ou sub-categoria, que pode ser usada pa
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
 | **Onde será exibido**           | Páginas de categoria                          |
-| **Link para cadastrar no painel** | [Admin](https://margoty.cdn.vnda.com.br/admin/tags) |
+
 
 &nbsp;
 

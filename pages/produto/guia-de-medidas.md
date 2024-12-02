@@ -18,7 +18,7 @@ Exibido as informações de medidas do produto
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
 | **Onde será exibido**           | Na pagina de produto                    |
-| **Link para cadastrar no painel** | [Admin](https://margoty.cdn.vnda.com.br/admin/tags) |
+
 
 &nbsp;
 
@@ -33,6 +33,13 @@ Exibido as informações de medidas do produto
 | **Subtítulo** | Sim | Texto para identificação    |
 | **Tipo** | Sim | produto-guia-de-medidas   |
 
+<br>
+
+## Exempo de tag para cadastrar na guia de medidas
+
+| Tamanho     | Cintura     | Quadril     | Comprimento |
+| ----------- | ----------- | ----------- | ----------- |
+| P           | 68-72cm     | 100-105cm   | 94
 
 
 &nbsp;

@@ -16,7 +16,7 @@ São os carrosséis de produtos que são exibidos os produtos relacionados no fi
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
 | **Onde será exibido**           | Na pagina de produto                           |
-| **Link para cadastrar no painel** | [Admin](https://margoty.cdn.vnda.com.br/admin/tags) |
+
 
 &nbsp;
 

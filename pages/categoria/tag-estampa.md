@@ -30,7 +30,7 @@ A tag estampa será alocada da versão desktop/mobile, abaixo estão as medidas:
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
 | **Onde será exibido**           | Nos filtros de cores da categoria                          |
-| **Link para cadastrar no painel** | [Admin](https://margoty.cdn.vnda.com.br/admin/tags) |
+
 
 &nbsp;
 

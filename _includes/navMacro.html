@@ -68,11 +68,37 @@
       <ul>
           <li class="has-children">
               <ul class="submenu">
-                  <li><a class="{% if page.body_class  == 'indique-e-ganhe' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Indique e ganhe</a></li>
-                  <li><a class="{% if page.body_class  == 'pop' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Pop-up</a></li>
-                  <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Imagens do Produto</a></li>
-                  <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">E-mail Transacional</a></li>
-                  <li><a class="{% if page.body_class  == 'header-logo' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/homepage/bloco-1">Régua de Frete grátis </a></li>
+                  <li><a class="{% if page.body_class  == 'indique-ganhe' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/funcionalidade/indique">Indique e ganhe</a></li>
+                  <li><a class="{% if page.body_class  == 'pop' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/funcionalidade/pop">Pop-up</a></li>
+               
+                  <li><a class="{% if page.body_class  == 'regua-frete' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/funcionalidade/regua">Régua de Frete grátis </a></li>
+                  
+              </ul>
+          </li>
+      </ul>
+
+
+    </li>
+
+    <li class="has-children-pai  {% if page.title  == 'macro' %}actived{% endif %} ">
+      <span>
+        <div class="content">
+          
+       
+          <img src="{{ site.baseurl }}/arquivos/icones/box.svg" alt="Logo da Loja">
+          Macro
+        </div>
+        <img src="{{ site.baseurl }}/arquivos/icones/arrow.svg" alt="Logo da Loja">
+
+      </span>
+
+      <ul>
+          <li class="has-children">
+              <ul class="submenu">
+                 
+                  <li><a class="{% if page.body_class  == 'imagens-produto' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/macro/imagens-produto">Imagens do Produto</a></li>
+                  <li><a class="{% if page.body_class  == 'email-transacional' %}actived-menu{% endif %}" href="{{ site.baseurl }}/pages/macro/email">E-mail Transacional</a></li>
+             
                   
               </ul>
           </li>
