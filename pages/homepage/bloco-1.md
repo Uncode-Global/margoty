@@ -61,7 +61,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 | Dúvida                | Instrução                                                        |
 | --------------------- | ---------------------------------------------------------------- |
 | **Onde cadastrar**    | Banners                                                          |
-| **Onde será exibido** | Banner principal abaixo do header, ocupa 100% da largura da tela |
+
 
 
 &nbsp;
