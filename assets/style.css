@@ -58,7 +58,10 @@ html, body {
 body{
     font-family: "Inter", sans-serif;
 }
-
+.page-wrapper{
+    max-width: 1600px;
+    margin: auto ;
+}
 
 .page-wrapper{
     
