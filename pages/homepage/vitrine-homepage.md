@@ -5,7 +5,7 @@ body_class: "vitrine"
 ---
 
 
-## Vitrine HomePage
+## Vitrine Homepage
 
 São os carrosséis da vitrine de produtos que ficam na homepage
 
@@ -25,7 +25,7 @@ Não alterar o nome da tag altere somente o título para refletir na loja
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel (não alterar o nome é usado para puxar os produtos no front)                      |
+| **Nome**      | Sim      | Campo para identificação a Tag                 |
 | **Título**    | Sim | Campo que irá puxar o título para o carrossel de produto                   |
 | **Tipo** | Sim | Home      |
 

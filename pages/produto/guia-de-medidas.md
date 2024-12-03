@@ -28,12 +28,19 @@ Exibido as informações de medidas do produto
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel                      |
+| **Nome**      | Sim      | Campo para identificação da tag                     |
 | **Título**    | Sim | Nome para pesquisar a tag             |
-| **Subtítulo** | Sim | Texto para identificação    |
+| **Subtítulo** | Sim | Breve descrição da guia de medidas   |
 | **Tipo** | Sim | produto-guia-de-medidas   |
 
 <br>
 
+
+***Seguir a descrição com o markdown como base***
+
+| Tamanho   | Cintura   | Quadril   | Altura    |
+| --------- | --------- | --------- | --------- |
+| P         | 68-72cm   | 100-105cm | 94cm      |
+| M         | 72-76cm   | 105-110cm | 95cm      |
 
 &nbsp;

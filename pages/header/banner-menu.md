@@ -26,7 +26,7 @@ O banner de menu do departamento permite que, ao passar o mouse, o usuário visu
 <br>
 
 ### Quantidade de Banners
-- São necessários **2 banners por departamento** caso todos os departamentos devam incluir o recurso.
+- Para ilustrar o departamento será necessário 2 (dois) banners por departamento, caso queria que todos os departamentos contemplem o banner.
 
 <br>
 
@@ -63,8 +63,8 @@ O banner de menu do departamento permite que, ao passar o mouse, o usuário visu
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
 | **Imagem**          | Sim | Dimensão sugerida: 338x302 pixels |
 | **Título**          | Sim      | Campo para pesquisa no painel                         |
-| **URL**             | Opcional | Link de direcionamento                                                |
-| **Posição** | Sim     | `banner-menu-nome-do-menu`                                        |
+| **URL**             | Opcional | Link de direcionamento para a categoria correspondente ao banner                                               |
+| **Posição** | Sim     | `banner-menu-roupas`                                        |
 
 
 

@@ -51,7 +51,7 @@ A ideia é que cada frase tenha no máximo 30 caracteres.
 
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
-| **Título**          | Sim      | Campo para pesquisa no painel                         |
+| **Título**          | Sim      | Campo para identificação do banner                         |
 | **Subtítulo**        | Sim | Campo para colocar o texto que irá aparecer no topbar                |
 | **Posição**             | Sim | top-bar                     |
                              |

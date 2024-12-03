@@ -62,7 +62,7 @@ Hoje, usamos uma versão para desktop/mobile. Abaixo estão as medidas:
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
 | **Imagem**          | Sim | Dimensão sugerida 24px24 pixels |
-| **Título**          | Sim      | Campo para pesquisa no painel                         |
+| **Título**          | Sim      | Campo para identificação do banner                         |
 | **Descrição**          | Sim      | Título da régua de vantagens                       |                                           
 | **Posição** | Sim     | `home-bloco-4`                                        |
 

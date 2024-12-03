@@ -27,10 +27,18 @@ Cadastro de redes sociais com ícones e direcionamentos
 
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
-| **Título**          | Sim      | Campo destinado para identificação do item                        |
-| **Tooltip**          | Sim      | Campo para colocar o nome para puxar o ícone da rede social                         |
+| **Título**          | Sim      | Nome da Rede Social, precisa estar em letras minúsculas e sem caracteres especiais.                      |
+| **Tooltip**          | Sim      | Campo para colocar o nome para puxar o ícone da rede social, precisa estar em letras minúsculas e sem caracteres especiais.                |
 | **Posição**             | Sim | `Social`|
 | **Url** | Sim     | Campo para colocar a url para onde irá levar o ícone quando clicado                                        |
 
+<br>
+
+***Exemplo de Cadastrado no painel***
+
+
+<div class="print-painel">
+    <img src="{{ site.baseurl }}/arquivos/prints/menu-social.png">
+</div>
 
 

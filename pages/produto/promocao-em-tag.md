@@ -30,9 +30,9 @@ Precisa criar uma Tag para vincular ao produto
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel                      |
+| **Nome**      | Sim      | Campo para identificação da tag                     |
 | **Título**    | Sim | Campo para usar como uma descritiva para a promoção                  |
-| **Tipo** | Sim | de-por-porcentagemdesconto     |
+| **Tipo** | Sim | de-por-10    |
 
 
 

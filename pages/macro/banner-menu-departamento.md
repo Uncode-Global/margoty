@@ -23,7 +23,7 @@ Para ilustrar o departamento será necessário 2 (dois) banners por departamento
 
 - **Medida:** 338px largura x 302px altura.
 - **Layout:** Quadrada
-- **Extensão do arquivo:** SVG
+- **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
 - **Peso máximo ideal:** De 200 a 300kb
 
@@ -43,6 +43,6 @@ Para ilustrar o departamento será necessário 2 (dois) banners por departamento
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Título**      | Sim      | Campo para pesquisa no painel                       |
+| **Título**      | Sim      | Campo para identificação do banner                      |
 | **url** | Opcional |   Link de direcionamento   |
 | **Posição** | Sim | banner-menu-nomedodepartamento     |

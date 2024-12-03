@@ -19,7 +19,7 @@ body_class: "home-bloco-2"
 ## [HOME] - Banner Superior - Bloco 2
 
 
-O banner superior bloco 2 é composto por 3 (três) banners que estão entre slideshow e vitrine. Os banners devem ser enviados com o conteúdo textual e o botão CTA aplicado.
+O banner superior bloco 2 é composto por 3 (três) banners que estão entre Topbar e vitrine. Os banners devem ser enviados com o conteúdo textual e o botão CTA aplicado.
 
 O conteúdo textual pode conter até 12 caracteres.
 
@@ -51,9 +51,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 ---
 
-## Como cadastrar 
-
-## Bloco 2
+## Como cadastrar Bloco 2
 
 **_Informações:_**
 
@@ -70,9 +68,9 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
 | **Imagem**          | Sim | Dimensão sugerida Desktop: 447x536 pixels, Mobile: 720x720 pixels |
-| **Título**          | Sim      | Campo para pesquisa no painel                         |
+| **Título**          | Sim      | Campo para identificação do banner                        |
 | **Externo?**        | Opcional | Selecionar se o link do banner deve abrir em outra aba                |
-| **URL**             | Opcional | Link de direcionamento                                                |
+| **URL**             | Opcional | Link de direcionamento para a categoria                                               |
 | **Posição Desktop** | Sim     | `home-bloco-2`                                        |
 | **Posição Mobile**  | Sim      | `home-bloco-2-mobile`                                 |
 

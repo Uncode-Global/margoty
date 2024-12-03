@@ -8,7 +8,6 @@ body_class: "header-menu"
 
 # Menu Principal
 
-Cadastro dos itens que irão levar para as páginas de categoria, são permitidos até 3 níveis de menu
 
 Cadastro dos itens que irão levar para as páginas de categoria, são permitidos até 3 níveis de menu
 
@@ -34,5 +33,11 @@ Para ter o direcionamento correto utilizar tag e selecionar a tag que o item do 
 | **Tag**             | Sim | Campo destina para alocar a tag que o item do menu pertence                                               |
 | **Posição** | Sim     | `principal`                                        |
 
+<br>
+
+***Exemplo de Cadastrado no painel***
 
 
+<div class="print-painel">
+    <img src="{{ site.baseurl }}/arquivos/prints/menu-cadastrado.png">
+</div>

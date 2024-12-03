@@ -24,8 +24,8 @@ São os carrosséis de produtos que são exibidos os produtos relacionados no fi
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel                      |
-| **Título**    | Sim | Nome que vai aparecer na loja                   |
+| **Nome**      | Sim      | Campo para identificação da tag                     |
+| **Título**    | Sim | Título que vai refletir no carrossel de produtos relacionados na loja              |
 | **Tipo** | Sim | produto-relacionado     |
 
 

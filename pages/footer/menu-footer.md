@@ -31,5 +31,14 @@ Cadastro de itens para o menu de categorias do footer, nesse menu usamos 2 níve
 | **Pagina**             | Sim | Campo destinado para alocar a página que o menu pertence|
 | **Posição** | Sim     | `footer`                                        |
 
+<br>
+
+***Exemplo de Cadastrado no painel***
+
+
+<div class="print-painel">
+    <img src="{{ site.baseurl }}/arquivos/prints/menu-footer.png">
+</div>
+
 
 

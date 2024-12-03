@@ -8,7 +8,7 @@ body_class: tag-estampa
 ## Tag Estampa
 
 A tag estampa tem por objetivo trazer ao cliente a imagem da estampa de cada produto. Para o cadastro dessa tag, será necessário o envio das imagens que representem cada estampa.
-A tag estampa será alocada da versão desktop/mobile, abaixo estão as medidas:
+A tag estampa será alocada na versão desktop/mobile, abaixo estão as medidas:
 
 **Versão Desktop/Mobile:**
 
@@ -39,7 +39,7 @@ A tag estampa será alocada da versão desktop/mobile, abaixo estão as medidas:
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
 | **Imagem**          | Sim | Dimensão sugerida 60x60 pixels |
-| **Nome**      | Sim      | Nome da estampa que precisa ser igual ao cadastrado no atributo do produto                     |
+| **Nome**      | Sim      | Ex: Estampa Floral Amarelo                    |
 | **Título**    | Sim | Nome para pesquisar a tag           |
 | **Tipo** | Sim | produto-estampa      |
 

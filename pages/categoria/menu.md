@@ -15,7 +15,7 @@ Cada tag cria um departamento, categoria ou sub-categoria, que pode ser usada pa
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Páginas de categoria                          |
+| **Onde será exibido**           | No header                          |
 
 
 &nbsp;
@@ -25,7 +25,7 @@ Cada tag cria um departamento, categoria ou sub-categoria, que pode ser usada pa
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
 | **Nome**      | Sim      | Campo para pesquisar no painel                 |
-| **Título**    | Sim | Título que irá aparecer no breadcrumb da página de categoria           |
+| **Título**    | Sim | Título que irá aparecer no header e breadcrumb        |
 | **Tipo** | Sim | menu     |
 
 

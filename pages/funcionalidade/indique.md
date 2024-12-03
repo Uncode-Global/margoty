@@ -57,3 +57,41 @@ Clique em **Enviar** e selecione a campanha criada para deixá-la ativa.
 
 2. Verifique se os e-mails transacionais **MADMIMI** estão ativos na lista de e-mails. Caso não estejam, cadastre-os conforme informações disponíveis no link:  
    [Indique e Ganhe - Como criar a campanha](http://ajuda.vnda.com.br/pt-BR/articles/2133226-indique-e-ganhe-como-criar-a-campanha)
+
+---
+<br>
+
+## Pop-up Indique e Ganhe
+
+Assim como o pop-up de newsletter, existe também a versão do indique e ganhe.
+
+Para o pop-up de indique e ganhe, será necessário criar uma versão de banner desktop e uma versão mobile seguindo as dimensões abaixo:
+
+**Versão Desktop:**
+
+- **Banner medida:** 384px largura x 577px altura.
+- **Layout:** Vertical
+- **Extensão do arquivo:** PNG
+- **Resolução:** 72dpi (para web)
+- **Peso máximo ideal:** De 200 a 300kb
+
+<br>
+
+**Exemplo**
+
+![Imagem do Banner Desktop]({{ site.baseurl }}/arquivos/prints/indique-desktop.jpeg)
+
+
+**Versão Desktop:**
+
+- **Banner medida:** 756px largura x 544px altura.
+- **Layout:** Horizontal
+- **Extensão do arquivo:** PNG
+- **Resolução:** 72dpi (para web)
+- **Peso máximo ideal:** De 200 a 300kb
+
+**Exemplo**
+
+<br>
+
+![Imagem do Banner Desktop]({{ site.baseurl }}/arquivos/prints/indique-mobile.jpeg)

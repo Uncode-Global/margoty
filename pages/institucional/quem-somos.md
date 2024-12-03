@@ -31,7 +31,7 @@ O banner terá uma versão desktop e uma versão mobile, abaixo estão as medida
 
 - **Banner medida:** 639px largura x 658px altura.
 - **Layout:** Vertical
-- **Extensão do arquivo:** SVG
+- **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
 - **Peso máximo ideal:** De 200 a 300kb
 
@@ -40,7 +40,7 @@ O banner terá uma versão desktop e uma versão mobile, abaixo estão as medida
 
 - **Banner medida:** 720px largura x 720px altura.
 - **Layout:** Vertical
-- **Extensão do arquivo:** SVG
+- **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
 - **Peso máximo ideal:** De 200 a 300kb
 
@@ -62,10 +62,14 @@ O banner terá uma versão desktop e uma versão mobile, abaixo estão as medida
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
 | **Imagem**      | Sim      | Dimensão sugerida Desktop: 639x658 pixels, Mobile: 720x720 pixels                  |
-| **Título**      | Sim      | Campo para pesquisa no painel                       |
-| **Descrição** | Sim | Conteúdo sobre a loja    |
+| **Título**      | Sim      | Campo para identificação do banner                       |
+| **Descrição** | Sim | Conteúdo da página institucional que reflete no front    |
 | **Posição Desktop** | Sim | institucional-quem-somos-bloco-1     |
 | **Posição Mobile** | Sim | institucional-quem-somos-bloco-1-mobile     |
+
+<br>
+
+***descrição do banner precisa estar no formato Markdown.***
 
 <br>
 
@@ -83,7 +87,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 - **Banner medida:** 1920px largura x 901px altura.
 - **Layout:** Horizontal
-- **Extensão do arquivo:** SVG
+- **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
 - **Peso máximo ideal:** De 200 a 300kb
 
@@ -92,7 +96,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 - **Banner medida:** 720px largura x 965px altura.
 - **Layout:** Vertical
-- **Extensão do arquivo:** SVG
+- **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
 - **Peso máximo ideal:** De 200 a 300kb
 

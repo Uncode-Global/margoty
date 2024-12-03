@@ -24,8 +24,8 @@ São exibidos composições de looks para serem comprados juntos.
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel                      |
-| **Título**    | Sim | Título que irá aparecer no compre junto                   |
+| **Nome**      | Sim      | Campo para identificação da tag                      |
+| **Título**    | Sim | Título que vai refletir no carrossel de compre junto na loja                  |
 | **Tipo** | Sim | produto-compre-junto     |
 
 

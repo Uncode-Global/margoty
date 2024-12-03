@@ -55,16 +55,14 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 ---
 
-## Como cadastrar 
-
-## Bloco 2
+## Como cadastrar Bloco 3
 
 **_Informações:_**
 
 | Dúvida                | Instrução                                                        |
 | --------------------- | ---------------------------------------------------------------- |
 | **Onde cadastrar**    | Banners                                                          |
-| **Onde será exibido** | vitrine e régua de vantagens.  |
+| **Onde será exibido** | Vitrine e régua de vantagens.  |
 
 
 &nbsp;
@@ -74,12 +72,16 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
 | **Imagem**          | Sim | Dimensão sugerida Desktop: 635x658 pixels, Mobile: 720x720 pixels |
-| **Título**          | Sim      | Campo para pesquisa no painel                         |
+| **Título**          | Sim      | Campo para identificação do banner                        |
 | **Subtitulo**          | Sim      |`  Texto que irá aparecer como um título no textual | CTA `                        |
 | **Descrição**          | Sim      | Descrição do banner                        |
 | **Externo?**        | Opcional | Selecionar se o link do banner deve abrir em outra aba                |
-| **URL**             | Opcional | Link de direcionamento                                                |
+| **URL**             | Opcional | Link de direcionamento para quem somos ou categoria                                               |
 | **Posição Desktop** | Sim     | `home-bloco-3`                                        |
 | **Posição Mobile**  | Sim      | `home-bloco-3-mobile`                                 |
 
+<br>
 
+***descrição do banner precisa estar no formato Markdown.***
+
+<br>

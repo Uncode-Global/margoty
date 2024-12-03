@@ -11,7 +11,7 @@ body_class: google-category
 
 Entenda o que é e como categorizar os produtos da sua loja de acordo com a taxonomia do Google.
 
-O atributo da categoria de produto do Google (`google_product_category`) é usado para categorizar os itens da sua loja e é obrigatório para o cadastro do Catálogo de produtos no Facebook e no Google Merchant Center.
+O atributo da categoria de produto do Google (`google_product_category`) é  usado para categorizar os itens da sua loja e é obrigatório para o cadastro do Catálogo de produtos no Facebook e no Google Merchant Center.
 
 Esta categoria é selecionada através da taxonomia do Google. A lista completa de categorias de produtos pode ser encontrada neste  
 [LINK](https://www.google.com/basepages/producttype/taxonomy-with-ids.en-US.txt)

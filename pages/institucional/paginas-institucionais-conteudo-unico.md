@@ -28,9 +28,13 @@ Para ser exibido o conteúdo deve ser criada uma página na aba páginas no pain
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Título**      | Sim      | Campo para pesquisa no painel                       |
-| **Subtítulo**    | Sim | Titulo que aparece      |
-| **Descrição** | Sim | Conteúdo da loja     |
+| **Título**      | Sim      | Campo para identificação do banner                       |
+| **Subtítulo**    | Sim | Título da página institucional que reflete no front     |
+| **Descrição** | Sim | Conteúdo da página institucional que reflete no front     |
 | **Posição** | Sim | institucional-nome-da-pagina-bloco-1     |
 
+<br>
 
+***descrição do banner precisa estar no formato Markdown.***
+
+<br>

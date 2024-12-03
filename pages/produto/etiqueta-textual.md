@@ -7,7 +7,7 @@ body_class: "etiqueta-textual"
 
 ## Etiqueta Textual
 
-**É necessário vincular essa TAG aos produtos que deseja aparcer a etiqueta**
+**É necessário vincular essa tag nos produtos para refletir a etiqueta**
 
 A tag etiqueta tem por objetivo trazer para o cliente a etiqueta que o produto possui. Informações alocadas diretamente na plataforma.
 
@@ -37,11 +37,17 @@ Segue um exemplo de como usar a descrição para alterar a **posição** e a **c
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel                      |
-| **Título**    | Sim | nome da etiqueta              |
-| **Descrição**    | Sim | campo para escolher local e cor do fundo da etiqueta         |
+| **Nome**      | Sim      | Campo para identificação da tag                      |
+| **Título**    | Sim | LOOK              |
+| **Descrição**    | Sim | posição: topo esquerda \| fundo: #FFFFFF         |
 | **Tipo** | Sim | produto-etiqueta   |
 
+
+<br>
+
+***Exemplo de como ficará no card***
+
+![Imagem do Banner Mobile]({{ site.baseurl }}/arquivos/prints/print-card-flag.png)
 
 
 &nbsp;

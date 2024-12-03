@@ -28,7 +28,7 @@ Exibido as variações similares de cores dos produtos
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para pesquisa no painel                      |
+| **Nome**      | Sim      | Campo para identificação da tag                     |
 | **Título**    | Sim | Nome para pesquisar a tag             |
 | **Tipo** | Sim | produto-similar    |
 

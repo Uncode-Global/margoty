@@ -93,7 +93,7 @@ header {
 
 .menu-flutuante a {
     text-decoration: none ;
-    color: #4a4a4a !important;
+    color: #fff !important;
 }
 
 .context-logo {
@@ -395,11 +395,27 @@ li.has-children-pai.actived strong{
     padding: 10px;
  
 }
+.print-painel {
+    max-width: 600px;
+}
+.print-painel img {
+    max-width: 600px;
+    width: 100%;
+}
+
+.print-painel-pequeno {
+    max-width: 300px;
+    width: 100%;
+}
+
+.print-painel-pequeno img {
+    width: 100%;
+}
 
 .menu-flutuante > div {
     /* background: #FBFAFD; */
-    background: #f1f1f1 ;
-    color: #4a4a4a;
+    background: #1e3a67 ;
+    color: #fff !important;
     text-transform: uppercase;
     font-size: 14px;
     width: 100%;
@@ -407,8 +423,10 @@ li.has-children-pai.actived strong{
     text-align: center;
 }
 
+
+
 .menu-flutuante > div:hover {
-    color: #0A7273 !important;
+    color: #FFF !important;
 }
 
 a.actived-menu {

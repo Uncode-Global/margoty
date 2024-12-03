@@ -4,7 +4,7 @@ title: funcionalidades
 body_class: "pop"
 ---
 
-# Pop-up Newsletter Desktop
+# Pop-up Newsletter Desktop/Mobile
 
 <br>
 
