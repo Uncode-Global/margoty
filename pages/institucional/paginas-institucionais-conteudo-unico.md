@@ -7,9 +7,15 @@ body_class: "conteudo-unico"
 
 ## Páginas institucionais de conteúdo único
 
-Esse mesmo modelo serve para as demais páginas que são de conteúdo único como privacidade, pagamento, troca e outras que forem criadas.
 
-Para ser exibido o conteúdo deve ser criada uma página na aba páginas no painel a url da página deve ser igual a parte da posição do banner que vem seguida da palavra institucional e antes de bloco-1
+Os banners exibidos nas páginas institucionais seguem o padrão: institucional + URL da página + -bloco-1. Esse mesmo modelo é aplicado às páginas de conteúdo único, como "Privacidade", "Pagamento", "Troca", entre outras semelhantes.
+
+Para que o conteúdo seja exibido corretamente, é necessário criar a página correspondente na aba Páginas no painel administrativo. O campo URL da página deve coincidir com a parte do identificador do banner que está entre institucional e -bloco-1.
+
+Exemplo:
+
+Para um banner com o identificador institucional-privacidade-bloco-1, a URL da página criada no painel deve ser privacidade.
+Assim, o conteúdo será associado e exibido corretamente
 
 
 

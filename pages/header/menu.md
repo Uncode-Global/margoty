@@ -8,10 +8,9 @@ body_class: "header-menu"
 
 # Menu Principal
 
+O cadastro dos itens que direcionarão para as páginas de categoria permite até 3 níveis de menu.
 
-Cadastro dos itens que irão levar para as páginas de categoria, são permitidos até 3 níveis de menu
-
-Para ter o direcionamento correto utilizar tag e selecionar a tag que o item do menu pertence.
+Para garantir o direcionamento correto, é necessário utilizar tags. Certifique-se de selecionar a tag correspondente à categoria à qual o item do menu pertence.
 
 ## Como cadastrar
 

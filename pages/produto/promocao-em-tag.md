@@ -5,14 +5,10 @@ body_class: "promocao-em-tag"
 ---
 
 
-## Promoção em tag De x Por
+## Promoção De Por
 
 
-Exibido desconto aplicado em determinado produto
-
-Etiqueta que aparece no botão
-
-Precisa criar uma Tag para vincular ao produto
+São promoções que alteram o preço do produto da loja, ou seja, sempre que aparecer o produto, irá aparecer o preço cheio e o preço com desconto.
 
 ***Informações:***
 
