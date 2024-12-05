@@ -28,7 +28,7 @@ Cadastro de itens para o menu de categorias do footer, nesse menu usamos 2 níve
 | Campo               | Obrigatório	         | Orientação                                                            |
 | ------------------- | ------------------- | --------------------------------------------------------------------- |
 | **Título**          | Sim      | Campo destinado para identificação do item                         |
-| **Pagina**             | Sim | Campo destinado para alocar a página que o menu pertence|
+| **Página**             | Sim | Campo destinado para alocar a página que o menu pertence|
 | **Posição** | Sim     | `footer`                                        |
 
 <br>

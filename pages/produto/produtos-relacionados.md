@@ -15,7 +15,7 @@ Essa funcionalidade se trata de uma tag que tem como objetivo relacionar produto
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                           |
+| **Onde será exibido**           | Na página de produto                           |
 
 
 &nbsp;

@@ -37,7 +37,7 @@ Peso máximo ideal: De 200 a 300kb
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                    |
+| **Onde será exibido**           | Na página de produto                    |
 
 
 &nbsp;

@@ -26,7 +26,7 @@ Segue um exemplo de como usar a descrição para alterar a **posição** e a **c
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                    |
+| **Onde será exibido**           | Na página de produto                    |
 
 
 &nbsp;

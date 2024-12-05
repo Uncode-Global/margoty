@@ -14,7 +14,7 @@ O compre junto é uma funcionalidade de cross-selling. Ele permite que o cliente
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                           |
+| **Onde será exibido**           | Na página de produto                           |
 
 
 &nbsp;

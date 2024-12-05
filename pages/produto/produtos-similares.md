@@ -15,7 +15,7 @@ Utilizada para exibir na tela de produto as variações similares de cores ou at
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto                    |
+| **Onde será exibido**           | Na página de produto                    |
 
 
 &nbsp;
