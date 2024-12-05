@@ -13,7 +13,7 @@ A tag estampa será alocada na versão desktop/mobile, abaixo estão as medidas:
 **Versão Desktop/Mobile:**
 
 - **Banner medida:** 60px largura x 60px altura.
-- **Extensão do arquivo:** PNG
+- **Extensão do arquivo:** SVG
 - **Resolução:** 72dpi (para web)
 - **Peso máximo ideal:** De 200 a 300kb
 <br>

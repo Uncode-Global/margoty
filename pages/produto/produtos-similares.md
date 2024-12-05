@@ -36,7 +36,7 @@ Utilizada para exibir na tela de produto as variações similares de cores ou at
 
 
 
-***Exemplo de Cadastrado no painel***
+***Exemplo de visualização na loja***
 
 
 <div class="print-painel">

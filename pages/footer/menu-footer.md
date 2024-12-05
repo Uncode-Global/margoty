@@ -33,7 +33,7 @@ Cadastro de itens para o menu de categorias do footer, nesse menu usamos 2 níve
 
 <br>
 
-***Exemplo de Cadastrado no painel***
+***Exemplo de cadastro no painel***
 
 
 <div class="print-painel">

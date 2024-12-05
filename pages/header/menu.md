@@ -34,7 +34,7 @@ Para garantir o direcionamento correto, é necessário utilizar tags. Certifique
 
 <br>
 
-***Exemplo de Cadastrado no painel***
+***Exemplo de cadastro no painel***
 
 
 <div class="print-painel">

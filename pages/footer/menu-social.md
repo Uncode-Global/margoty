@@ -34,7 +34,7 @@ Cadastro de redes sociais com ícones e direcionamentos
 
 <br>
 
-***Exemplo de Cadastrado no painel***
+***Exemplo de cadastro no painel***
 
 
 <div class="print-painel">

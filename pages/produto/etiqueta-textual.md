@@ -45,7 +45,7 @@ Segue um exemplo de como usar a descrição para alterar a **posição** e a **c
 
 <br>
 
-***Exemplo de como ficará no card***
+***Exemplo de visualização no card***
 
 ![Imagem do Banner Mobile]({{ site.baseurl }}/arquivos/prints/print-card-flag.png)
 
