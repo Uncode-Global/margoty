@@ -7,8 +7,7 @@ body_class: "compre-junto"
 
 ## Compre junto
 
-São exibidos composições de looks para serem comprados juntos.
-
+O compre junto é uma funcionalidade de cross-selling. Ele permite que o cliente possa comprar outros produtos, com aquele que já está comprando. Nessa funcionalidade, bastam apenas alguns cliques para o cliente levar o produto “a mais”, o que é ótimo para impulsionar a conversão em vendas.
 
 ***Informações:***
 

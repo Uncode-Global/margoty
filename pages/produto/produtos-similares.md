@@ -7,9 +7,7 @@ body_class: "produto-similares"
 
 ## Produtos Similares
 
-
-Exibido as variações similares de cores dos produtos
-
+Utilizada para exibir na tela de produto as variações similares de cores ou atributos dos produtos. 
 
 
 ***Informações:***
@@ -28,10 +26,20 @@ Exibido as variações similares de cores dos produtos
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para identificação da tag                     |
-| **Título**    | Sim | Nome para pesquisar a tag             |
+| **Nome**      | Sim      | Campo para identificação da tag Exemplo 'Similar Blusa Viscose'                    |
+| **Título**    | Sim | Similar Blusa Viscose            |
 | **Tipo** | Sim | produto-similar    |
 
 
 
 &nbsp;
+
+
+
+***Exemplo de Cadastrado no painel***
+
+
+<div class="print-painel">
+    <img src="{{ site.baseurl }}/arquivos/prints/tag-similiar.png">
+</div>
+

@@ -25,10 +25,21 @@ Não alterar o nome da tag altere somente o título para refletir na loja
 
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
-| **Nome**      | Sim      | Campo para identificação a Tag                 |
+| **Nome**      | Sim      | Campo para identificação da Tag (não alterar o nome é usado para criar o carrossel de vitrine de produtos que irá exibir no front)              |
 | **Título**    | Sim | Campo que irá puxar o título para o carrossel de produto                   |
 | **Tipo** | Sim | Home      |
 
 
 
 &nbsp;
+
+
+
+***Exemplo de Cadastrado no painel***
+
+
+<div class="print-painel">
+    <img src="{{ site.baseurl }}/arquivos/prints/tag-vitrine.png">
+</div>
+
+

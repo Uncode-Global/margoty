@@ -28,7 +28,7 @@ Exibido na Página de produto a informação de cashback
 | Campo         | Obrigatório         | Orientação                                |
 | ------------- | ------------------- | ----------------------------------------- |
 | **Nome**      | Sim      | Campo para identificação da tag                     |
-| **Título**    | Sim | Valor do cashback para fazer o cálculo e refletir no front **Exemplo 5% equivale a 5% de desconto** |
+| **Título**    | Sim | Valor do cashback para fazer o cálculo e refletir no front **Exemplo 5 equivale a 5% de desconto** |
 | **Tipo** | Sim | produto-cashback    |
 
 <br>

@@ -5,17 +5,17 @@ body_class: "promocao-em-tag"
 ---
 
 
-## Promoção De Por
+## Promoção De X Por
 
 
-São promoções que alteram o preço do produto da loja, ou seja, sempre que aparecer o produto, irá aparecer o preço cheio e o preço com desconto.
+São promoções que alteram o preço do produto da loja. Sempre que um produto em promoção for exibido, será mostrado o preço cheio e o preço com desconto, indicando a mudança de valor, como: de R$100,00 por R$ 95,00.
 
 ***Informações:***
 
 | Dúvida                          | Instrução                                                               |
 | ------------------------------- | ----------------------------------------------------------------------- |
 | **Onde cadastrar**              | Tags                                                                    |
-| **Onde será exibido**           | Na pagina de produto e cards de produtos                          |
+| **Onde será exibido**           | Na página de produto e cards de produtos                          |
 
 
 &nbsp;

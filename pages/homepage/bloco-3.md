@@ -9,7 +9,7 @@ body_class: "home-bloco-3"
 </div>
 
 <div>
-  <a href="#como-cadastrar">Como cadastrar</a>
+  <a href="#como-cadastrar-bloco-3">Como cadastrar</a>
 </div>
 
 </div>

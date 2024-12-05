@@ -7,7 +7,7 @@ body_class: "produtos-relacionados"
 
 ## Produtos Relacionados
 
-São os carrosséis de produtos que são exibidos os produtos relacionados no final da página de produtos.
+Essa funcionalidade se trata de uma tag que tem como objetivo relacionar produtos entre si gerando carrosséis de produtos exibidos no final da página de produtos. 
 
 
 ***Informações:***

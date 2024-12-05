@@ -7,9 +7,9 @@ body_class: "etiqueta-textual"
 
 ## Etiqueta Textual
 
-**É necessário vincular essa tag nos produtos para refletir a etiqueta**
-
 A tag etiqueta tem por objetivo trazer para o cliente a etiqueta que o produto possui. Informações alocadas diretamente na plataforma.
+
+**É necessário vincular essa tag nos produtos para refletir a etiqueta**
 
 Textual e background exibido quando ativada a etiqueta na plataforma de maneira textual.
 
